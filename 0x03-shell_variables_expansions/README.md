@@ -1,1 +1,1 @@
-A folder that describes what each script does
+File that shows the description for each scripts
